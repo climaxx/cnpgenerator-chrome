@@ -2,7 +2,7 @@
 Multe site-uri iti cer un CNP valid fara niciun motiv. Solutia? Genereaza unul.
 
 ### Cum se foloseste?
-Descărcați ZIP-ul extensiei de pe GitHub.
+Descărcați ZIP-ul extensiei de pe GitHub. <br/>
 ![ss](https://i.gyazo.com/3f6fbd707955053a71715dbeb050c3a9.png)
 
 Adăugați extensia în Google Chrome.
