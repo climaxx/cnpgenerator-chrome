@@ -1,7 +1,7 @@
 # Generator CNP - Chrome Extension
 Multe site-uri iti cer un CNP valid fara niciun motiv. Solutia? Genereaza unul.
 
-###Cum se foloseste?
+### Cum se foloseste?
 Descărcați ZIP-ul extensiei de pe GitHub.
 ![ss](https://i.gyazo.com/3f6fbd707955053a71715dbeb050c3a9.png)
 
