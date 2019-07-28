@@ -7,6 +7,6 @@ Descărcați ZIP-ul extensiei de pe GitHub. <br/>
 
 Adăugați extensia în Google Chrome.
 Navigați la adresa **chrome://extensions/** sau în tab-ul de Extensii și adăugați extensia făcând click pe butonul **Load unpacked**.
-<br/><br/>
-Preview:
+
+Preview:<br/>
 ![Splash](https://raw.githubusercontent.com/vscorpio/cnpgenerator-chrome/master/splash.jpg)
